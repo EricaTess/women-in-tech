@@ -2,10 +2,10 @@
 
 Thanks for checking out my project! There are a few ways to view it. 
 
-EASY VERSION:
+Easy Version:<br />
 Open `Analysis.ipynb`
 
-COMPLICATED VERSION:
+Complicated Version:<br />
 First, clone the project from git by opening terminal and running this command.
 
 `git clone https://github.com/EricaTess/women-in-tech`
