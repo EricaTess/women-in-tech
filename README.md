@@ -1,4 +1,4 @@
-# women-in-tech
+# Women in Tech Analysis
 
 Thanks for checking out my project! There are a few ways to view it. 
 
